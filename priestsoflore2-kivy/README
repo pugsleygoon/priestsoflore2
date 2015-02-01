@@ -1,0 +1,5 @@
+To run, run 'kivy main.py' 
+Drop this directory in the kivy folder on your phone to play
+controls:
+
+swipe to the left or right, up or down to move through the room

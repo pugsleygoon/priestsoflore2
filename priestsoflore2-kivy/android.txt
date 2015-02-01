@@ -1,0 +1,3 @@
+title=Priests of Lore 2
+author=silverhawk software
+orientation=landscape
